@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My ESP8266</string>
+    <string name="welcomeNote">ESP8266 DEMO</string>
+</resources>
